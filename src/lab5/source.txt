@@ -1,0 +1,7 @@
+The Java.io.BufferedWriter class writes text to a character-output stream, buffering characters so as to provide for the efficient writing of single characters, arrays, and strings.
+Following are the important points about BufferedWriter:
+    - The buffer size may be specified, or the default size may be used.
+    - A Writer sends its output immediately to the underlying character or byte stream.
+
+Short line.
+
