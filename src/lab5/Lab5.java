@@ -49,6 +49,8 @@ public class Lab5 {
         
         String subPath="src/lab5/";
         
+        // reuse LimitedQueue for word processing!!!!!!
+        
         String line=null;
         BufferedReader br = new BufferedReader(new FileReader(subPath + "source.txt"));
         try {

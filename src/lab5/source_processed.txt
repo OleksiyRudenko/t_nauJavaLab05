@@ -1,4 +1,3 @@
-the default size may be used.
-the underlying character or byte stream.
+or byte stream.
 
 Short line.
