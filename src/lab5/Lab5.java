@@ -11,7 +11,7 @@ import java.util.*;
  * @author Oleksiy.Rudenko@gmail.com
  */
 public class Lab5 {
-//
+////
     /**
      * @param args the command line arguments
      */
